@@ -12,7 +12,7 @@ Recently completed my Master of Computer Applications (MCA) with a specializatio
 - 💻 Full Stack Web Development (Node.js) certified
 - 📊 Data Analytics enthusiast — Tableau, Power BI, Advanced Excel, Python
 - 🤖 Built an IoT-based hardware + software automation project
-- 🏆 Smart India Hackathon Finalist — Top 45 of 1000+ teams
+- 🏆 Smart India Hackathon Finalist — Top 45 of 1000+ teams at College Level
 - 🥇 Top 5 finish — National Level Hackathon, Amritsar
 - 🌱 Currently leveling up in React & the MERN stack
 - 📍 Open to entry-level Full Stack Web Development and Data Analytics roles
