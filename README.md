@@ -11,8 +11,8 @@ I'm passionate about building scalable web applications and working with data-dr
 ### 🧑‍💻 About Me
 
 - 🎓 MCA in Artificial Intelligence & Machine Learning — Chandigarh University
-- 🚀 MERN Stack Development Certified — Course Completed
 - 💻 Full Stack Web Development (Node.js) Certified
+- 🚀 MERN Stack Development Certified
 - 📊 Data Analytics enthusiast — Tableau, Power BI, Advanced Excel, Python
 - 🤖 Built an IoT-based hardware + software automation project
 - 🏆 Smart India Hackathon Finalist — Top 45 of 1000+ teams at College Level
