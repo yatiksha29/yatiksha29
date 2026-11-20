@@ -100,7 +100,7 @@ A full-stack healthcare web application.
 
 A full-stack application for pet shelter operations, with efficient database handling and validation.
 
-🌐 Live Demo: (https://pet-shelter-8cee.onrender.com)
+🌐 **Live Website:** [Pet Shelter](https://pet-shelter-8cee.onrender.com)
 
 `Node.js` `JavaScript` `jQuery` `MySQL` `HTML` `CSS` `Bootstrap` `Express.js`
 
